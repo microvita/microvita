@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=microvita" alt="microvita" /></a> </p>
 
-- 🔭 I’m currently working on **ABC Content Solution as known as Mahar Mobile**
+- 🔭 I’m currently working as Backend Developer on **ABC Content Solution as known as Mahar Mobile**
 
 - 🌱 I’m currently learning **Cyber Security**
-
-- 👯 I’m looking to collaborate on **AYA Mobile Banking**
 
 - 🤝 I’m looking for help with [Micro TS Node](https://github.com/microvita/micro-ts-node)
 
